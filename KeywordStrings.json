@@ -1,0 +1,204 @@
+{
+  "TheSimpletonMod:AbundanceKeyword": {
+    "PROPER_NAME": "Изобилие",
+    "NAMES": [
+      "изобилие", "изобилия"
+    ],
+    "DESCRIPTION":  "Увеличивает #yКультуры #yСажаемые картами."
+  },
+
+  "TheSimpletonMod:ArtichokeKeyword": {
+    "PROPER_NAME": "Артишок",
+    "NAMES": [
+      "артишок", "артишока"
+    ],
+    "DESCRIPTION": "#yКультура. Даёт Шипы при сборе."
+  },
+
+  "TheSimpletonMod:AsparagusKeyword": {
+    "PROPER_NAME": "Спаржа",
+    "NAMES": [
+      "cпаржа", "спаржи", "спаржу"
+    ],
+    "DESCRIPTION": "#yКультура. Даёт Ловкость при сборе."
+  },
+
+  "TheSimpletonMod:BurningKeyword": {
+    "PROPER_NAME": "Горение",
+    "NAMES": [
+      "горения", "горение"
+    ],
+    "DESCRIPTION": "Горящие существа получют урон в конце их хода и теряют Горение."
+  },
+
+  "TheSimpletonMod:ChilisKeyword": {
+    "PROPER_NAME": "Чили",
+    "NAMES": [
+      "чили"
+    ],
+    "DESCRIPTION": "#yКультура. Наносит урон и накладывает #yГорение ВСЕМ врагам при сборе."
+  },
+
+  "TheSimpletonMod:CoffeeKeyword": {
+    "PROPER_NAME": "Кофе",
+    "NAMES": [
+      "кофе"
+    ],
+    "DESCRIPTION": "#yКультура. Даёт Энергию при сборе."
+  },
+
+
+  "TheSimpletonMod:CornKeyword": {
+    "PROPER_NAME": "Кукуруза",
+    "NAMES": [
+      "кукуруза"
+    ],
+    "DESCRIPTION": "#yКультура. Берёт карты при сборе."
+  },
+
+  "TheSimpletonMod:CropKeyword": {
+    "PROPER_NAME": "Культура",
+    "NAMES": [
+      "культура", "культур", "культуры"
+    ],
+    "DESCRIPTION": "#yКультуры дают эффекты при сборе."
+  },
+
+  "TheSimpletonMod:DepletionKeyword": {
+    "PROPER_NAME": "Depletion",
+    "NAMES": [
+      "depletion", "depletions"
+    ],
+    "DESCRIPTION": "Depletions are playable status cards that reduce your Energy and Draw next turn."
+  },
+
+  "TheSimpletonMod:GnawberryKeyword": {
+    "PROPER_NAME": "Кусьника",
+    "NAMES": [
+      "кусьника", "кусьники", "кусьнику"
+    ],
+    "DESCRIPTION": "Кусьника - атака которая, наносит moderate урон и восполняет ОЗ."
+  },
+
+  "TheSimpletonMod:HarvestKeyword": {
+    "PROPER_NAME": "Собирает",
+    "NAMES": [
+      "собирает", "harvested"
+    ],
+    "DESCRIPTION": "Собирает разные #yКультуры чтобы активировать их эффекты."
+  },
+
+  "TheSimpletonMod:HuskKeyword": {
+    "PROPER_NAME": "Husk",
+    "NAMES": [
+      "husk", "husks"
+    ],
+    "DESCRIPTION": "Husks #b0-cost skill cards that exhaust to grant a small amount of Block."
+  },
+
+  "TheSimpletonMod:MaturityKeyword": {
+    "PROPER_NAME": "Maturity",
+    "NAMES": [
+      "mature", "matures", "maturity"
+    ],
+    "DESCRIPTION": "A #yCrop is mature if you have stacks equal to its maturity level. One stack of each mature crop is #gHarvested at the start of your turn."
+  },
+
+  "TheSimpletonMod:MushroomKeyword": {
+    "PROPER_NAME": "Грибочки",
+    "NAMES": [
+      "грибочек", "грибочки"
+    ],
+    "DESCRIPTION": "#yКультура. Даёт случайные бесцветные карты при сборе."
+  },
+
+  "TheSimpletonMod:OnionKeyword": {
+    "PROPER_NAME": "Лук",
+    "NAMES": [
+      "лук", "лука"
+    ],
+    "DESCRIPTION": "#yКультура. Накладывает Слабость на случайного врага при сборе."
+  },
+
+  "TheSimpletonMod:Numbed": {
+    "PROPER_NAME": "Numb",
+    "NAMES": [
+      "numb", "numbed"
+    ],
+    "DESCRIPTION": "Temporarily increases the cost of a random card in hand when a card is played."
+  },
+
+  "TheSimpletonMod:PlantKeyword": {
+    "PROPER_NAME": "Сажает",
+    "NAMES": [
+      "Сажает", "planted", "plants", "re-plant", "re-plants", "re-planted"
+    ],
+    "DESCRIPTION": "Gain that many #yCrop stacks."
+  },
+
+
+  "TheSimpletonMod:PotatoKeyword": {
+    "PROPER_NAME": "Картошечка",
+    "NAMES": [
+      "картошечка", "картошечки"
+    ],
+    "DESCRIPTION": "#yКультура. Yields 0-cost Spud attack cards when harvested."
+  },
+
+
+  "TheSimpletonMod:PlotKeyword": {
+    "PROPER_NAME": "Plot",
+    "NAMES": [
+      "plot", "plots"
+    ],
+    "DESCRIPTION": "#ySlot for planting Crops. Your Plots determine how many different Crops you can have at one time."
+  },
+
+  "TheSimpletonMod:SpinachKeyword": {
+    "PROPER_NAME": "Spinach",
+    "NAMES": [
+      "spinach"
+    ],
+    "DESCRIPTION": "#yКультура. Даёт Силу при сборе."
+  },
+
+  "TheSimpletonMod:SpudKeyword": {
+    "PROPER_NAME": "Spud",
+    "NAMES": [
+      "spud", "spuds"
+    ],
+    "DESCRIPTION": "Spuds are 0-cost attack cards that exhaust to deal modest damage."
+  },
+
+  "TheSimpletonMod:SquashKeyword": {
+    "PROPER_NAME": "Squash",
+    "NAMES": [
+      "squash"
+    ],
+    "DESCRIPTION": "#yКультура. Даёт #yЗащиту при сборе."
+  },
+
+  "TheSimpletonMod:StrawberryKeyword": {
+    "PROPER_NAME": "Strawberries",
+    "NAMES": [
+      "strawberry", "strawberries"
+    ],
+    "DESCRIPTION": "#yКультура. Yields Gnawberry attack cards when harvested that also heal a small amount of HP."
+  },
+
+  "TheSimpletonMod:SunflowerKeyword": {
+    "PROPER_NAME": "Подсолнухи",
+    "NAMES": [
+      "подсолнух", "подсолнухов"
+    ],
+    "DESCRIPTION": "#yКультура. Даёт Энергию при сборе."
+  },
+
+  "TheSimpletonMod:TurnipKeyword": {
+    "PROPER_NAME": "Turnips",
+    "NAMES": [
+      "turnip", "turnips"
+    ],
+    "DESCRIPTION": "#yКультура. Yields an attack card when harvested which deals scaling damage to all enemies and adds a Turnips card to your discard pile."
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "TheSimpletonMod:BorealisEvent": {
+    "NAME": "Borealis",
+    "DESCRIPTIONS": [
+      "A vast #gghostly #gglow stretches across the night sky. You find yourself in absolute stillness. The silence is haunting. NL NL As you gaze upon the expanse of lights, you notice a low and pervasive #phumming. You suppose it's been there all along. NL NL You're suddenly feeling very afraid."
+    ],
+    "OPTIONS": [
+      "[Прикрыть ушки] #rПотеряйте ",
+      "[Прикрыть глазки] #rПотеряйте #r",
+      "[Succumb] #gПолучить #gPrismatic #gShard и #g2 #gСлучайные #gРедкие #gКарты ЛЮБОГО цвета.",
+      ". #gПолучит #gОбычную #gРеликвию.",
+      " #rОЗ. #gУлучшает #g",
+      " #gслучайные #gкарты.",
+      "[Уйти]"
+    ]
+  },
+
+  "TheSimpletonMod:EarlyThawEvent": {
+    "NAME": "Early Thaw",
+    "DESCRIPTIONS": [
+      "The last of the winter ice begins to melt. A tentative promise of new life emerges again."
+    ],
+    "OPTIONS": [
+      "[Enjoy the Breeze] #gУлучшает ",
+      "[Начать сажать] #r",
+      ". #gЛечит #g",
+      " #gОЗ.",
+      "%: #rBecome #rCursed #r– #r",
+      ". #gПолучите ",
+      ".",
+      "[Закрыто] Нужна улучшаемая карта.",
+      "[Уйти]"
+    ]
+  },
+
+  "TheSimpletonMod:EquipmentShedEvent": {
+    "NAME": "Derelict Shed",
+    "DESCRIPTIONS": [
+      "You happen upon a disused shelter. NL NL A workbench covered in rusty tools stands in front. Sacks filled with rotted feed are strewn about. NL NL Not much appears to be of value, but you may be able to salvage some of the food. NL NL Or you could try to put some of the tools to use."
+    ],
+    "OPTIONS": [
+      "[Tinker] #rПотеряйте ",
+      "[Tinker] #gПолучите ",
+      "[Rummage]",
+      "[Rummage More]",
+      " #gМакс #gОЗ #g+",
+      ". #gПолучите ",
+      ". #rПотеряйте #r",
+      " #rОЗ.",
+      ".",
+      " #r",
+      "%",
+      " #rBecome #rCursed #r– #r",
+      "[Уйти]"
+    ]
+  },
+
+
+  "TheSimpletonMod:FirefliesEvent": {
+    "NAME": "Мотыльки",
+    "DESCRIPTIONS": [
+      "You step out into a clearing, where tiny #yglowing #ybeetles dance lazily in the summer air. You're filled with a pleasant contentment. NL NL You contemplate just sitting in the grass. Or you might try to catch a bug for yourself."
+    ],
+    "OPTIONS": [
+      "[Расслабится] #gПолучите #gЗелье: ",
+      "[Chase] #gПолучите ",
+      ".",
+      ". #r",
+      "%: #rBecome #rCursed #r– #r",
+      "[Уйти]"
+    ]
+  },
+
+
+  "TheSimpletonMod:GophersEvent": {
+    "NAME": "Gophers!",
+    "DESCRIPTIONS": [
+      "Your vegetable patch is infested with #ygophers! Salvage what you can without getting #rbitten."
+    ],
+    "OPTIONS": [
+      "#g",
+      "#r",
+      "%: #rBitten #r– #rПотеряйте #r",
+      " #rОЗ.",
+      "#gУлучшает #g",
+      " #gСлучайных #gКарт. ",
+      "#gДаёт #g",
+      " #gМакс #gОЗ. ",
+      "#gПолучите #g",
+      " #gЗолота. ",
+      "#gПолучите #gслучайную #yлечшенную #gредкую #gкарту. ",
+      "#gПолучите ",
+      " и ",
+      "#gПолучите #g",
+      " #gЗелья. ",
+      "[ВЫШЛО!] ",
+      "[СПАСЛИСЬ] ",
+      "[Уйти]",
+      "You manage to recover some of the yield. But the gophers have #yeaten some, too. And they seem to be getting annoyed.",
+      "You've saved more of the yield, and the gophers have kept #yeating. If you keep going, you'll risk a nasty #rbite.",
+      "#rYEEOUCH! NL NL Sharp teeth #rperforate your hand. The blood begins to flow, but you expect it to stop before long. NL NL You decide it's not worth risking getting bitten again.",
+      "You've managed to clean out the patch without injury. Hopefully the pests won't be back."
+    ]
+  },
+
+  "TheSimpletonMod:HarvestMoonEvent": {
+    "NAME": "Harvest Moon",
+    "DESCRIPTIONS": [
+      "It's a clear night, crisp and cool. The moon looms brightly in the autumn sky, an imposing presence. An omen. NL NL This could prove to be the #yharvest of a lifetime—but you'll need to hang up your weapon and work the field."
+    ],
+    "OPTIONS": [
+      "[Мечи] #gУлучшает #gвсе Удары.",
+      "[Plows] #gУдаляет #gвсе Удары. #gПолучите #g",
+      " #gслучайных #gкультурных #gталантов. #rПотеряйте #r",
+      " #rМакс #rОЗ.",
+      "[Уйти]"
+    ]
+  },
+
+  "TheSimpletonMod:HeatWaveEvent": {
+    "NAME": "Heat Wave",
+    "DESCRIPTIONS": [
+      "A relentless #rheat permeates the dungeon. Your limbs throb beneath your gear. You've lost the ability to sweat. NL NL You may not be able to endure this for much longer."
+    ],
+    "OPTIONS": [
+      "[Slake Your Thirst] #rПотеряйте ",
+      "[Drop Some Gear] #rПотеряйте ",
+      "[Press Forward] #gДаёт ",
+      ". #gЛечит #g",
+      " #gОЗ.",
+      ". #rДаёт #r",
+      " #rГорения в следующем бою.",
+      "[Закрыто] Требуется Зелье.",
+      "[Закрыто] Требуется не проклятье.",
+      "[Уйти]"
+    ]
+  },
+
+  "TheSimpletonMod:ReaptideEvent": {
+    "NAME": "Reaptide",
+    "DESCRIPTIONS": [
+      "It's finally time for the #gharvest, and the earth has been good to you this season.  You'll eat well this year, though it always pays to plan for a long winter. NL NL Some insist on making offerings to the ancestors—rather than risking a poor harvest next year."
+    ],
+    "OPTIONS": [
+      "[Be Practical] #gПолучите #g",
+      "[Be Indulgent] #gПолучите #g",
+      "[Be Superstitious] #gДаёт ",
+      ".",
+      ". #rПотеряйте #r",
+      " #rЗолота.",
+      ". #r",
+      "%:",
+      " #rBecome #rCursed #r– #r",
+      "[Закрыто] Требуется: Хотя бы ",
+      "[Уйти]"
+    ]
+  },
+
+  "TheSimpletonMod:SnowedInEvent": {
+    "NAME": "Snowed In",
+    "DESCRIPTIONS": [
+      "With a howl, the wind brings another blast of #bsnow. It's been like this for weeks now. NL NL It's no longer safe to travel. In fact, it's probably best if you just stayed inside. NL NL You've got enough food stored to last until the full moon, maybe longer. It should be enough—if you don't panic."
+    ],
+    "OPTIONS": [
+      "[Ration] #gПолучите #g",
+      "[Ransack] #gПолучите ",
+      "[Dig Out] #gДаёт ",
+      ". #rПотеряйте #r",
+      " #rЗолота.",
+      " #rОЗ.",
+      ". #r50%: #rBecome #rCursed #r– #r",
+      ".",
+      "[Закрыто] Требуется: Хотя бы ",
+      "[Уйти]"
+    ]
+  }
+}
+

@@ -1,0 +1,169 @@
+{
+  "TheSimpletonMod:AbstractCropPower": {
+    "NAME": "AbstractCrop",
+    "DESCRIPTIONS": [
+      "#yКультура. Созреет на #r",
+      " стаках."
+    ]
+  },
+
+  "TheSimpletonMod:AbundancePower": {
+    "NAME": "Изобилие",
+    "DESCRIPTIONS": [
+      "Увеличивает количество #yСажаемых картами #yКультур на #b",
+      "."
+    ]
+  },
+
+  "TheSimpletonMod:BirdFeederPower": {
+    "NAME": "Birdfeeder",
+    "DESCRIPTIONS": [
+      "The next #b",
+      " times you play a #yPower card this combat, восполняет #b",
+      " ОЗ."
+    ]
+  },
+
+  "TheSimpletonMod:BiorefinementPower": {
+    "NAME": "Biorefinement",
+    "DESCRIPTIONS": [
+      "The first time ",
+      "The first #b",
+      " times ",
+      "you play card with Harvest each turn, reduce the cost of a random card in your hand by #b1 this combat."
+    ]
+  },
+
+  "TheSimpletonMod:BurningPower": {
+    "NAME": "Burning",
+    "DESCRIPTIONS": [
+      "At the end of its turn, it takes #b",
+      " damage, then loses #yBurning."
+    ]
+  },
+
+  "TheSimpletonMod:CrackOfDawnPower": {
+    "NAME": "Crack of Dawn",
+    "DESCRIPTIONS": [
+      "In #b",
+      " turn",
+      " turns",
+      ", deal #b",
+      " damage to ALL enemies, Plant #b",
+      " #yCorn, and gain",
+      " [E]",
+      " ."
+    ]
+  },
+
+  "TheSimpletonMod:DeenergizedPower": {
+    "NAME": "De-energized",
+    "DESCRIPTIONS": [
+      "At the start of your turn, lose #b",
+      " #yEnergy."
+    ]
+  },
+
+  "TheSimpletonMod:DoubleDiggingPower": {
+    "NAME": "Double Digging",
+    "DESCRIPTIONS": [
+      "Your next card this turn that costs #b1 or less is played twice.",
+      "Your next #b",
+      " cards this turn that cost #b1 or less are played twice."
+    ]
+  },
+
+  "TheSimpletonMod:DrawDownPower": {
+    "NAME": "Draw Down",
+    "DESCRIPTIONS": [
+      "Draw #b",
+      " less card next turn.",
+      " less cards next turn."
+    ]
+  },
+
+  "TheSimpletonMod:IntoxicatedPower": {
+    "NAME": "Intoxicated",
+    "DESCRIPTIONS": [
+      "Whenever you draw a card, randomize its cost this turn."
+    ]
+  },
+
+  "TheSimpletonMod:LoseAbundancePower": {
+    "NAME": "Abundance Down",
+    "DESCRIPTIONS": [
+      "At the end of this turn, lose #b",
+      " #yAbundance."
+    ]
+  },
+
+  "TheSimpletonMod:LoseSlowPower": {
+    "NAME": "Потеря Медлительности",
+    "DESCRIPTIONS": [
+      "В начале вашего хода, теряет #yМедлительность."
+    ]
+  },
+
+  "TheSimpletonMod:NextTurnWeakPower": {
+    "NAME": "Слабость на следующий ход",
+    "DESCRIPTIONS": [
+      "Даёт #b",
+      " #yСлабость на следующий ход."
+    ]
+  },
+
+  "TheSimpletonMod:NumbPower": {
+    "NAME": "Numb",
+    "DESCRIPTIONS": [
+      "Whenever you play a card this turn, increase the cost of another random card in your hand by #b",
+      " for this turn."
+    ]
+  },
+
+  "TheSimpletonMod:PhotosynthesisPower": {
+    "NAME": "Фотосинтез",
+    "DESCRIPTIONS": [
+      "В конце хода, тратит всю неиспользованную #yЭнергию и #yСажает множество сезонных #yКультур."
+    ]
+  },
+
+  "TheSimpletonMod:ResistantStrainPower": {
+    "NAME": "Resistant Strain",
+    "DESCRIPTIONS": [
+      "Когда вы накладываете отрицательный эффект на врага, даёт #b",
+      " #yЗащиты."
+    ]
+  },
+
+
+  "TheSimpletonMod:SoberUpPower": {
+    "NAME": "Sober Up",
+    "DESCRIPTIONS": [
+      "В конце хода, lose #yIntoxicated."
+    ]
+  },
+
+  "TheSimpletonMod:SpudOfTheMartyrPower": {
+    "NAME": "Martyr's Strength",
+    "DESCRIPTIONS": [
+      "В начале хода, даёт #b",
+      " временной #yСилы."
+    ]
+  },
+
+  "TheSimpletonMod:ToughSkinPower": {
+    "NAME": "Тонкая кожа",
+    "DESCRIPTIONS": [
+      "Когда вы #gСобираете #yКультуру, даёт #b",
+      " #yЗащиты."
+    ]
+  },
+
+  "TheSimpletonMod:VolatileFumesPower": {
+    "NAME": "Volatile Fumes",
+    "DESCRIPTIONS": [
+      "Когда вы атакуете врага с #yСлабостью, накладывает ",
+      " #yГорения."
+    ]
+  }
+}
