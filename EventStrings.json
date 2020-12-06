@@ -1,13 +1,13 @@
 {
   "TheSimpletonMod:BorealisEvent": {
-    "NAME": "Borealis",
+    "NAME": "Северное сияние",
     "DESCRIPTIONS": [
-      "A vast #gghostly #gglow stretches across the night sky. You find yourself in absolute stillness. The silence is haunting. NL NL As you gaze upon the expanse of lights, you notice a low and pervasive #phumming. You suppose it's been there all along. NL NL You're suddenly feeling very afraid."
+      "Огромное #gпризрачное #gсияние простирается по ночному небу. Вы в абсолютной тишине. Тишина тревожила вас. NL NL Когда вы смотрели на простирающиеся огни, вы слышите низкое #pжужжание. Вы полагаете это было там всё это время. NL NL Вы вдруг очень испугались."
     ],
     "OPTIONS": [
       "[Прикрыть ушки] #rПотеряйте ",
       "[Прикрыть глазки] #rПотеряйте #r",
-      "[Succumb] #gПолучить #gPrismatic #gShard и #g2 #gСлучайные #gРедкие #gКарты ЛЮБОГО цвета.",
+      "[Поддаться] #gПолучить #gРадужный #gОсколок и #g2 #gСлучайные #gРедкие #gКарты ЛЮБОГО цвета.",
       ". #gПолучит #gОбычную #gРеликвию.",
       " #rОЗ. #gУлучшает #g",
       " #gслучайные #gкарты.",
@@ -16,16 +16,16 @@
   },
 
   "TheSimpletonMod:EarlyThawEvent": {
-    "NAME": "Early Thaw",
+    "NAME": "Ранняя Оттепель",
     "DESCRIPTIONS": [
-      "The last of the winter ice begins to melt. A tentative promise of new life emerges again."
+      "Последний зимний лёд начинает таять. Раньше вем обычно жизнь приходит снова."
     ],
     "OPTIONS": [
-      "[Enjoy the Breeze] #gУлучшает ",
+      "[Наслаждаться бри] #gУлучшает ",
       "[Начать сажать] #r",
       ". #gЛечит #g",
       " #gОЗ.",
-      "%: #rBecome #rCursed #r– #r",
+      "%: #rСтать #rПроклятым #r– #r",
       ". #gПолучите ",
       ".",
       "[Закрыто] Нужна улучшаемая карта.",
@@ -34,15 +34,15 @@
   },
 
   "TheSimpletonMod:EquipmentShedEvent": {
-    "NAME": "Derelict Shed",
+    "NAME": "Заброшенный Сарай",
     "DESCRIPTIONS": [
-      "You happen upon a disused shelter. NL NL A workbench covered in rusty tools stands in front. Sacks filled with rotted feed are strewn about. NL NL Not much appears to be of value, but you may be able to salvage some of the food. NL NL Or you could try to put some of the tools to use."
+      "Вы случайно натыкаетесь на заброшенное убежище. Перед ним стоит верстак, покрытый ржавыми инструментами. Повсюду валяются мешки с гнилым кормом. NL NL Не так много, кажется, имеет ценность, но вы можете спасти часть еды. NL NL или вы могли бы попробовать использовать некоторые инструменты."
     ],
     "OPTIONS": [
-      "[Tinker] #rПотеряйте ",
-      "[Tinker] #gПолучите ",
-      "[Rummage]",
-      "[Rummage More]",
+      "[Возится] #rПотеряйте ",
+      "[Возится] #gПолучите ",
+      "[Рыться]",
+      "[Больше рыться]",
       " #gМакс #gОЗ #g+",
       ". #gПолучите ",
       ". #rПотеряйте #r",
@@ -50,37 +50,37 @@
       ".",
       " #r",
       "%",
-      " #rBecome #rCursed #r– #r",
+      " #rСтать #rПроклятым #r– #r",
       "[Уйти]"
     ]
   },
 
 
   "TheSimpletonMod:FirefliesEvent": {
-    "NAME": "Мотыльки",
+    "NAME": "Светлячки",
     "DESCRIPTIONS": [
-      "You step out into a clearing, where tiny #yglowing #ybeetles dance lazily in the summer air. You're filled with a pleasant contentment. NL NL You contemplate just sitting in the grass. Or you might try to catch a bug for yourself."
+      "Вы вышли на поляну, где в летнем воздухе лениво танцуют маленькие #yсветящиеся #yжучки. Вы полность удоволетворены. NL NL Вы можете посидеть на травке. Или вы можете попробовать поймать себе жучка."
     ],
     "OPTIONS": [
       "[Расслабится] #gПолучите #gЗелье: ",
-      "[Chase] #gПолучите ",
+      "[Охотиться] #gПолучите ",
       ".",
       ". #r",
-      "%: #rBecome #rCursed #r– #r",
+      "%: #rСтать #rПроклятым #r– #r",
       "[Уйти]"
     ]
   },
 
 
   "TheSimpletonMod:GophersEvent": {
-    "NAME": "Gophers!",
+    "NAME": "Суслики!",
     "DESCRIPTIONS": [
-      "Your vegetable patch is infested with #ygophers! Salvage what you can without getting #rbitten."
+      "Ваш огород кишит #yсусликами! Они машу вать везде! Спасите что можете не получая #rкусей."
     ],
     "OPTIONS": [
       "#g",
       "#r",
-      "%: #rBitten #r– #rПотеряйте #r",
+      "%: на #rКусь #r– #rПотеряйте #r",
       " #rОЗ.",
       "#gУлучшает #g",
       " #gСлучайных #gКарт. ",
@@ -88,7 +88,7 @@
       " #gМакс #gОЗ. ",
       "#gПолучите #g",
       " #gЗолота. ",
-      "#gПолучите #gслучайную #yлечшенную #gредкую #gкарту. ",
+      "#gПолучите #gслучайную #yлучшенную #gредкую #gкарту. ",
       "#gПолучите ",
       " и ",
       "#gПолучите #g",
@@ -96,21 +96,21 @@
       "[ВЫШЛО!] ",
       "[СПАСЛИСЬ] ",
       "[Уйти]",
-      "You manage to recover some of the yield. But the gophers have #yeaten some, too. And they seem to be getting annoyed.",
-      "You've saved more of the yield, and the gophers have kept #yeating. If you keep going, you'll risk a nasty #rbite.",
-      "#rYEEOUCH! NL NL Sharp teeth #rperforate your hand. The blood begins to flow, but you expect it to stop before long. NL NL You decide it's not worth risking getting bitten again.",
-      "You've managed to clean out the patch without injury. Hopefully the pests won't be back."
+      "Вам удаётся спасти часть урожая. Но суслики успели что то #yсожрать. И похоже они немного раздражены.",
+      "Вы спасли ещё больше урожая, а суслики продолжают его #yжрать. Если вы продолжете то рискуете получить #rкусь.",
+      "#rАЙ Б%#@*! NL NL Острые зубы #rпрокусывают вашу руку. Начинается кровотечение, но вы ожидаете, что оно скоро остановится. NL NL Вы решаете больше не рисковать.",
+      "Вам удалось очистить участок без травм. Надеюсь, вредители не вернутся."
     ]
   },
 
   "TheSimpletonMod:HarvestMoonEvent": {
-    "NAME": "Harvest Moon",
+    "NAME": "Забрать луну",
     "DESCRIPTIONS": [
-      "It's a clear night, crisp and cool. The moon looms brightly in the autumn sky, an imposing presence. An omen. NL NL This could prove to be the #yharvest of a lifetime—but you'll need to hang up your weapon and work the field."
+      "Ночь ясная, прохладная и освежающая. Луна ярко нависает над осенним небом, впелчатляющий вид. Это хорошая примета. NL NL Можно приняться собрать #yурожай всей жизни, но нужно будет сложить оружие и пойти работать в поле."
     ],
     "OPTIONS": [
       "[Мечи] #gУлучшает #gвсе Удары.",
-      "[Plows] #gУдаляет #gвсе Удары. #gПолучите #g",
+      "[Пахать] #gУдаляет #gвсе Удары. #gПолучите #g",
       " #gслучайных #gкультурных #gталантов. #rПотеряйте #r",
       " #rМакс #rОЗ.",
       "[Уйти]"
@@ -118,57 +118,57 @@
   },
 
   "TheSimpletonMod:HeatWaveEvent": {
-    "NAME": "Heat Wave",
+    "NAME": "Аномальная жара",
     "DESCRIPTIONS": [
-      "A relentless #rheat permeates the dungeon. Your limbs throb beneath your gear. You've lost the ability to sweat. NL NL You may not be able to endure this for much longer."
+      "Безжалостный #rжар пронизывает подземелье. Ваши конечности пульсируют под одеждой. В организме уже недостаточно жидкости для охлаждения. НЛ НЛ Вы не сможете долго этого терпеть."
     ],
     "OPTIONS": [
-      "[Slake Your Thirst] #rПотеряйте ",
-      "[Drop Some Gear] #rПотеряйте ",
-      "[Press Forward] #gДаёт ",
+      "[Утолить жажду] #rПотеряйте ",
+      "[Снять часть одежды] #rПотеряйте ",
+      "[Стремиться вперед] #gДаёт ",
       ". #gЛечит #g",
       " #gОЗ.",
       ". #rДаёт #r",
       " #rГорения в следующем бою.",
       "[Закрыто] Требуется Зелье.",
-      "[Закрыто] Требуется не проклятье.",
+      "[Закрыто] Требуется не проклятая карта.",
       "[Уйти]"
     ]
   },
 
   "TheSimpletonMod:ReaptideEvent": {
-    "NAME": "Reaptide",
+    "NAME": "Лавина",
     "DESCRIPTIONS": [
-      "It's finally time for the #gharvest, and the earth has been good to you this season.  You'll eat well this year, though it always pays to plan for a long winter. NL NL Some insist on making offerings to the ancestors—rather than risking a poor harvest next year."
+      "Наконец - то пришло время жатвы, и земля была хороша в этом сезоне. В этом году будет много еды, хотя всегда стоит планировать долгую зиму. Некоторые настаивают на том, чтобы делать подношения предкам, вместо того, чтобы рисковать плохим урожаем в следующем году.."
     ],
     "OPTIONS": [
-      "[Be Practical] #gПолучите #g",
-      "[Be Indulgent] #gПолучите #g",
-      "[Be Superstitious] #gДаёт ",
+      "[Быть практичным] #gПолучите #g",
+      "[Быть снисходительным] #gПолучите #g",
+      "[Быть суеверным] #gДаёт ",
       ".",
       ". #rПотеряйте #r",
       " #rЗолота.",
       ". #r",
       "%:",
-      " #rBecome #rCursed #r– #r",
+      " #rСтать #rПроклятым #r– #r",
       "[Закрыто] Требуется: Хотя бы ",
       "[Уйти]"
     ]
   },
 
   "TheSimpletonMod:SnowedInEvent": {
-    "NAME": "Snowed In",
+    "NAME": "Засыпало снегом",
     "DESCRIPTIONS": [
-      "With a howl, the wind brings another blast of #bsnow. It's been like this for weeks now. NL NL It's no longer safe to travel. In fact, it's probably best if you just stayed inside. NL NL You've got enough food stored to last until the full moon, maybe longer. It should be enough—if you don't panic."
+      "С воем ветер приносит еще один порыв снега. Это продолжается уже несколько недель. NL NL Путешествовать больше небезопасно. На самом деле, наверное, будет лучше, просто остаться внутри. NL NL В доме достаточно еды, чтобы пережить полнолуние, а может, и дольше. Этого должно быть достаточно если не паниковать."
     ],
     "OPTIONS": [
-      "[Ration] #gПолучите #g",
-      "[Ransack] #gПолучите ",
-      "[Dig Out] #gДаёт ",
+      "[Рацион] #gПолучите #g",
+      "[Обыскать] #gПолучите ",
+      "[Раскапать] #gДаёт ",
       ". #rПотеряйте #r",
       " #rЗолота.",
       " #rОЗ.",
-      ". #r50%: #rBecome #rCursed #r– #r",
+      ". #r50%: #rСтать #rПроклятым #r– #r",
       ".",
       "[Закрыто] Требуется: Хотя бы ",
       "[Уйти]"

@@ -1,6 +1,6 @@
 {
   "TheSimpletonMod:AbstractCropPower": {
-    "NAME": "AbstractCrop",
+    "NAME": "АбстрактнаяКультура",
     "DESCRIPTIONS": [
       "#yКультура. Созреет на #r",
       " стаках."
@@ -16,84 +16,84 @@
   },
 
   "TheSimpletonMod:BirdFeederPower": {
-    "NAME": "Birdfeeder",
+    "NAME": "Кормушка для птиц",
     "DESCRIPTIONS": [
-      "The next #b",
-      " times you play a #yPower card this combat, восполняет #b",
+      "Каждые #b",
+      " разыгранных Талантов, восполняет #b",
       " ОЗ."
     ]
   },
 
   "TheSimpletonMod:BiorefinementPower": {
-    "NAME": "Biorefinement",
+    "NAME": "Биообработка",
     "DESCRIPTIONS": [
-      "The first time ",
-      "The first #b",
-      " times ",
-      "you play card with Harvest each turn, reduce the cost of a random card in your hand by #b1 this combat."
+      "Первая разыгранная карта с Сбором, уменьшает стоимость случайной карты в руке на #b1 до конца боя, каждый ход. 0110011",
+      "Первые #b",
+      " разыгранные карты с Сбором, уменьшают стоимость случайной карты в руке на #b1 до конца боя, каждый ход",
+      "."
     ]
   },
 
   "TheSimpletonMod:BurningPower": {
-    "NAME": "Burning",
+    "NAME": "Горение",
     "DESCRIPTIONS": [
-      "At the end of its turn, it takes #b",
-      " damage, then loses #yBurning."
+      "В конце хода, получает #b",
+      " урона, затем теряя #yГорение."
     ]
   },
 
   "TheSimpletonMod:CrackOfDawnPower": {
-    "NAME": "Crack of Dawn",
+    "NAME": "Рассвет",
     "DESCRIPTIONS": [
-      "In #b",
-      " turn",
-      " turns",
-      ", deal #b",
-      " damage to ALL enemies, Plant #b",
-      " #yCorn, and gain",
+      "Через #b",
+      " ход",
+      " хода",
+      ", наносит #b",
+      " урона ВСЕМ врагам, Сажает #b",
+      " #yКукурузы, и даёт",
       " [E]",
       " ."
     ]
   },
 
   "TheSimpletonMod:DeenergizedPower": {
-    "NAME": "De-energized",
+    "NAME": "Потеря энергии",
     "DESCRIPTIONS": [
-      "At the start of your turn, lose #b",
-      " #yEnergy."
+      "Вы теряете #b",
+      " #yЭнергии в начале хода."
     ]
   },
 
   "TheSimpletonMod:DoubleDiggingPower": {
-    "NAME": "Double Digging",
+    "NAME": "Двойное копание",
     "DESCRIPTIONS": [
-      "Your next card this turn that costs #b1 or less is played twice.",
-      "Your next #b",
-      " cards this turn that cost #b1 or less are played twice."
+      "Следующая карта стоимостью #b1 или меньше разыгрывается дважды.",
+      "Следующие #b",
+      " карты стоимостью #b1 или меньше разыгрывается дважды."
     ]
   },
 
   "TheSimpletonMod:DrawDownPower": {
-    "NAME": "Draw Down",
+    "NAME": "Снижение добора",
     "DESCRIPTIONS": [
-      "Draw #b",
-      " less card next turn.",
-      " less cards next turn."
+      "Вы берёте меньше на #b",
+      " карту в следующий ход.",
+      " карты в следующий ход."
     ]
   },
 
   "TheSimpletonMod:IntoxicatedPower": {
-    "NAME": "Intoxicated",
+    "NAME": "Опьянение",
     "DESCRIPTIONS": [
-      "Whenever you draw a card, randomize its cost this turn."
+      "Карты которые вы берёте получают случайную стоимость до конца хода"
     ]
   },
 
   "TheSimpletonMod:LoseAbundancePower": {
-    "NAME": "Abundance Down",
+    "NAME": "Снижение изобилия",
     "DESCRIPTIONS": [
-      "At the end of this turn, lose #b",
-      " #yAbundance."
+      "Вы теряете #b",
+      " #yИзобилия в конце хода."
     ]
   },
 
@@ -113,10 +113,10 @@
   },
 
   "TheSimpletonMod:NumbPower": {
-    "NAME": "Numb",
+    "NAME": "Оцепенение",
     "DESCRIPTIONS": [
-      "Whenever you play a card this turn, increase the cost of another random card in your hand by #b",
-      " for this turn."
+      "Увеличивает стоимость случайной карты в руке на #b",
+      " до конца хода, когда вы разыгрваете карту."
     ]
   },
 
@@ -128,7 +128,7 @@
   },
 
   "TheSimpletonMod:ResistantStrainPower": {
-    "NAME": "Resistant Strain",
+    "NAME": "Защитная нагрузка",
     "DESCRIPTIONS": [
       "Когда вы накладываете отрицательный эффект на врага, даёт #b",
       " #yЗащиты."
@@ -137,14 +137,14 @@
 
 
   "TheSimpletonMod:SoberUpPower": {
-    "NAME": "Sober Up",
+    "NAME": "Протрезветь",
     "DESCRIPTIONS": [
-      "В конце хода, lose #yIntoxicated."
+      "В конце хода, потеряйте #yОпьянение."
     ]
   },
 
   "TheSimpletonMod:SpudOfTheMartyrPower": {
-    "NAME": "Martyr's Strength",
+    "NAME": "Сила мученика",
     "DESCRIPTIONS": [
       "В начале хода, даёт #b",
       " временной #yСилы."
@@ -160,9 +160,9 @@
   },
 
   "TheSimpletonMod:VolatileFumesPower": {
-    "NAME": "Volatile Fumes",
+    "NAME": "Летучие пары",
     "DESCRIPTIONS": [
-      "Когда вы атакуете врага с #yСлабостью, накладывает ",
+      "Когда вы атакуете врага со #yСлабостью, накладывает ",
       " #yГорения."
     ]
   }

@@ -65,11 +65,11 @@
   },
 
   "TheSimpletonMod:DepletionKeyword": {
-    "PROPER_NAME": "Depletion",
+    "PROPER_NAME": "Истощение",
     "NAMES": [
-      "depletion", "depletions"
+      "истощение", "истощения"
     ],
-    "DESCRIPTION": "Depletions are playable status cards that reduce your Energy and Draw next turn."
+    "DESCRIPTION": "Играбельные статусы, которые уменьшают количество карт которые вы берёте и забирает Энергию на следующий ход."
   },
 
   "TheSimpletonMod:GnawberryKeyword": {
@@ -83,25 +83,25 @@
   "TheSimpletonMod:HarvestKeyword": {
     "PROPER_NAME": "Собирает",
     "NAMES": [
-      "собирает", "harvested"
+      "собирает", "сбором"
     ],
     "DESCRIPTION": "Собирает разные #yКультуры чтобы активировать их эффекты."
   },
 
   "TheSimpletonMod:HuskKeyword": {
-    "PROPER_NAME": "Husk",
+    "PROPER_NAME": "Шелуха",
     "NAMES": [
-      "husk", "husks"
+      "шелуха", "шелухи", "шелуху"
     ],
-    "DESCRIPTION": "Husks #b0-cost skill cards that exhaust to grant a small amount of Block."
+    "DESCRIPTION": "Шелуха - навык с #b0 стоимостью, который сжигается и даёт немного Защиты."
   },
 
   "TheSimpletonMod:MaturityKeyword": {
-    "PROPER_NAME": "Maturity",
+    "PROPER_NAME": "Созревание",
     "NAMES": [
-      "mature", "matures", "maturity"
+      "созревание", "созревает", "созрела", "созревшие"
     ],
-    "DESCRIPTION": "A #yCrop is mature if you have stacks equal to its maturity level. One stack of each mature crop is #gHarvested at the start of your turn."
+    "DESCRIPTION": "#yКультура созревает, когда количество стаков >= её уровню созревания. Один стак каждой созревшей культуры #gСобирается в начале хода."
   },
 
   "TheSimpletonMod:MushroomKeyword": {
@@ -121,11 +121,11 @@
   },
 
   "TheSimpletonMod:Numbed": {
-    "PROPER_NAME": "Numb",
+    "PROPER_NAME": "Оцепенение",
     "NAMES": [
-      "numb", "numbed"
+      "оцепенение", "оцепенения"
     ],
-    "DESCRIPTION": "Temporarily increases the cost of a random card in hand when a card is played."
+    "DESCRIPTION": "Временно увеличивакт стоимость случайной карты в руке, когда вы разыгрываете картв."
   },
 
   "TheSimpletonMod:PlantKeyword": {
@@ -133,7 +133,7 @@
     "NAMES": [
       "Сажает", "planted", "plants", "re-plant", "re-plants", "re-planted"
     ],
-    "DESCRIPTION": "Gain that many #yCrop stacks."
+    "DESCRIPTION": "Даёт стаки #yКультур."
   },
 
 
@@ -147,43 +147,43 @@
 
 
   "TheSimpletonMod:PlotKeyword": {
-    "PROPER_NAME": "Plot",
+    "PROPER_NAME": "Надел",
     "NAMES": [
-      "plot", "plots"
+      "надел", "надела"
     ],
     "DESCRIPTION": "#ySlot for planting Crops. Your Plots determine how many different Crops you can have at one time."
   },
 
   "TheSimpletonMod:SpinachKeyword": {
-    "PROPER_NAME": "Spinach",
+    "PROPER_NAME": "Шпинат",
     "NAMES": [
-      "spinach"
+      "шпинат", "шпината"
     ],
     "DESCRIPTION": "#yКультура. Даёт Силу при сборе."
   },
 
   "TheSimpletonMod:SpudKeyword": {
-    "PROPER_NAME": "Spud",
+    "PROPER_NAME": "Картофелина",
     "NAMES": [
-      "spud", "spuds"
+      "картофелина", "картофелины", "картофелину"
     ],
-    "DESCRIPTION": "Spuds are 0-cost attack cards that exhaust to deal modest damage."
+    "DESCRIPTION": "Картофелина - атака с #b0 стоимостью, которая сжигается и наносит немного урона."
   },
 
   "TheSimpletonMod:SquashKeyword": {
-    "PROPER_NAME": "Squash",
+    "PROPER_NAME": "Кабачок",
     "NAMES": [
-      "squash"
+      "кабачок", "кабачка", "кабачков"
     ],
     "DESCRIPTION": "#yКультура. Даёт #yЗащиту при сборе."
   },
 
   "TheSimpletonMod:StrawberryKeyword": {
-    "PROPER_NAME": "Strawberries",
+    "PROPER_NAME": "Клубника",
     "NAMES": [
-      "strawberry", "strawberries"
+      "клубника", "клубники", "клубнику"
     ],
-    "DESCRIPTION": "#yКультура. Yields Gnawberry attack cards when harvested that also heal a small amount of HP."
+    "DESCRIPTION": "#yКультура. Собирается в Кусьнику - Атака которая лечит немного ОЗ."
   },
 
   "TheSimpletonMod:SunflowerKeyword": {
@@ -195,10 +195,10 @@
   },
 
   "TheSimpletonMod:TurnipKeyword": {
-    "PROPER_NAME": "Turnips",
+    "PROPER_NAME": "Репка",
     "NAMES": [
-      "turnip", "turnips"
+      "репка", "репки", "репку"
     ],
-    "DESCRIPTION": "#yКультура. Yields an attack card when harvested which deals scaling damage to all enemies and adds a Turnips card to your discard pile."
+    "DESCRIPTION": "#yКультура. Собирается в Атаку, котрая наносит урон ВСЕМ врагам за каждый Собранный стак и добавляет #yРепку в стопку сброса."
   }
 }
